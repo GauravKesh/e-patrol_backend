@@ -1,5 +1,5 @@
 {
-  "name": "urlhortbackend",
+  "name": "e-patrol_backend",
   "version": "1.0.0",
   "description": "Backend for Centralized Standard Beat Management Solution",
   "main": "./src/server.js",
